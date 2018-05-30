@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Statics" section_id="3c141b96db5213007c42f11ebf9619c2" sys_domain="global" table="x_227081_needit_needit_table_to_inherit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_opened</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>f4141b96db5213007c42f11ebf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>78141b96db5213007c42f11ebf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>f8141b96db5213007c42f11ebf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>7c141b96db5213007c42f11ebf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>fc141b96db5213007c42f11ebf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>70141b96db5213007c42f11ebf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_active</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_id>f0141b96db5213007c42f11ebf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="Default view">3c141b96db5213007c42f11ebf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statics</caption>
+            <header>false</header>
+            <name>x_227081_needit_needit_table_to_inherit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:59:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c141b96db5213007c42f11ebf9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Statics</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIT" source="x_227081_needit">b9b44821db5a13007c42f11ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">b9b44821db5a13007c42f11ebf9619a8</sys_scope>
+            <sys_update_name>sys_ui_section_3c141b96db5213007c42f11ebf9619c2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:59:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

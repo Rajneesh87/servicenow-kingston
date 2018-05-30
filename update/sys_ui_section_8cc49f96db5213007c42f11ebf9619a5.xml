@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="8cc49f96db5213007c42f11ebf9619a5" sys_domain="global" table="x_227081_needit_needit_table_to_inherit" version="3" view="user">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>84c49f96db5213007c42f11ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>08c49f96db5213007c42f11ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>88c49f96db5213007c42f11ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longint_8</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>0cc49f96db5213007c42f11ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>8cc49f96db5213007c42f11ebf9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>00c49f96db5213007c42f11ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>80c49f96db5213007c42f11ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_id>04c49f96db5213007c42f11ebf9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_needit_table_to_inherit" sys_domain="global" view="6fa3d396db5213007c42f11ebf9619d4">8cc49f96db5213007c42f11ebf9619a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_227081_needit_needit_table_to_inherit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 10:02:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cc49f96db5213007c42f11ebf9619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_227081_needit_needit_table_to_inherit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIT" source="x_227081_needit">b9b44821db5a13007c42f11ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">b9b44821db5a13007c42f11ebf9619a8</sys_scope>
+            <sys_update_name>sys_ui_section_8cc49f96db5213007c42f11ebf9619a5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 10:02:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="user" name="user">6fa3d396db5213007c42f11ebf9619d4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_227081_needit_neetit_table1_model" label="NeedIt_table_to_inherit" max_length="40" name="x_227081_needit_needit_table_to_inherit" type="collection">
+        <element display="true" label="New_configuration_Item" max_length="40" name="new_configuration_item" type="string"/>
+        <element label="state" max_length="40" name="state" type="string"/>
+    </element>
+</database>

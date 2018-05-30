@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a0611356db5213007c42f11ebf9619cc" sys_domain="global" table="x_227081_needit_neetit_table1_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28611356db5213007c42f11ebf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227081_needit_neetit_table1_model" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">a0611356db5213007c42f11ebf9619cc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:47:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24611356db5213007c42f11ebf9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227081_needit_neetit_table1_model" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">a0611356db5213007c42f11ebf9619cc</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">60611356db5213007c42f11ebf9619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:47:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77521b56db5213007c42f11ebf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_227081_needit_neetit_table1_model" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">a0611356db5213007c42f11ebf9619cc</sys_ui_form>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">bb521b56db5213007c42f11ebf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:51:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_227081_needit_neetit_table1_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-28 09:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0611356db5213007c42f11ebf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_227081_needit_neetit_table1_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIT" source="x_227081_needit">b9b44821db5a13007c42f11ebf9619a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">b9b44821db5a13007c42f11ebf9619a8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a0611356db5213007c42f11ebf9619cc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-28 09:47:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

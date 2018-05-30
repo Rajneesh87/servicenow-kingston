@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-28 09:17:49</sys_created_on>
+        <sys_id>cb9a4752db5213007c42f11ebf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227081_needit_needit_table_to_inherit.x_227081_needit.needit_table_to_inherit_user</sys_name>
+        <sys_package display_value="NeedIT" source="x_227081_needit">b9b44821db5a13007c42f11ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">b9b44821db5a13007c42f11ebf9619a8</sys_scope>
+        <sys_security_acl display_value="x_227081_needit_needit_table_to_inherit">8b9a4752db5213007c42f11ebf9619ea</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cb9a4752db5213007c42f11ebf9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-28 09:17:49</sys_updated_on>
+        <sys_user_role display_value="x_227081_needit.needit_table_to_inherit_user" name="x_227081_needit.needit_table_to_inherit_user">be9a8352db5213007c42f11ebf961996</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
