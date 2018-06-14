@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_active</field>
+        <global>true</global>
+        <messages/>
+        <name>NeedIt Request Type Options</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+  //Check to see if the form is for a new record.  If it is a new record, 
+  //set the Requested for value to the currently logged in user.
+var cdt=g_form.getvalue(startdate);
+	alert('cdt');
+    if(g_form.isNewRecord()){
+        g_form.setValue('u_opened',g_form.getvalue('startdate'));
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-08 12:03:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>355718cadb6a13007c42f11ebf961906</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>NeedIt Request Type Options</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIT" source="x_227081_needit">b9b44821db5a13007c42f11ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">b9b44821db5a13007c42f11ebf9619a8</sys_scope>
+        <sys_update_name>sys_script_client_355718cadb6a13007c42f11ebf961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-08 12:13:13</sys_updated_on>
+        <table>x_227081_needit_neetit_table1_model</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

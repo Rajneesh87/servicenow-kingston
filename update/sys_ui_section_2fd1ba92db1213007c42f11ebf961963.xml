@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>f76c0b92db5213007c42f11ebf96194c</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>cfb01bf3dbae13007c42f11ebf96190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,167 +19,125 @@
             <element>create_new</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>7b6c0b92db5213007c42f11ebf96194c</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>c7b01bf3dbae13007c42f11ebf96190f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>open_assigned_to_me</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>fb6c0b92db5213007c42f11ebf96194c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>all</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>7f6c0b92db5213007c42f11ebf96194c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_requested_for</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>ff6c0b92db5213007c42f11ebf96194c</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>4bb01bf3dbae13007c42f11ebf96190f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_6</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>736c0b92db5213007c42f11ebf96194d</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>cbb01bf3dbae13007c42f11ebf96190f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>4fb01bf3dbae13007c42f11ebf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>f36c0b92db5213007c42f11ebf96194d</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>cfb01bf3dbae13007c42f11ebf96190f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_by_me</element>
+            <element>u_when_needed</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>43b01bf3dbae13007c42f11ebf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>776c0b92db5213007c42f11ebf96194d</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>c3b01bf3dbae13007c42f11ebf961910</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_by_my_group</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>f76c0b92db5213007c42f11ebf96194d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>open_assigned_to_my_group</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>7b6c0b92db5213007c42f11ebf96194d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_when_needed</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>fb6c0b92db5213007c42f11ebf96194d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
-            <position>11</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>7f6c0b92db5213007c42f11ebf96194d</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>47b01bf3dbae13007c42f11ebf961910</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
-            <position>12</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-28 09:25:48</sys_created_on>
-            <sys_id>ff6c0b92db5213007c42f11ebf96194d</sys_id>
+            <sys_created_on>2018-06-14 11:51:10</sys_created_on>
+            <sys_id>c7b01bf3dbae13007c42f11ebf961910</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_227081_needit_neetit_table1_model" sys_domain="global" view="Default view">2fd1ba92db1213007c42f11ebf961963</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-28 09:25:48</sys_updated_on>
+            <sys_updated_on>2018-06-14 11:51:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
